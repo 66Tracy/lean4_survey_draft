@@ -1,0 +1,15 @@
+[1] (新闻) https://news.pedaily.cn/202603/561697.shtml
+[2]（论文）Polu S, Sutskever I. Generative language modeling for automated theorem proving[J]. arXiv preprint arXiv:2009.03393, 2020.
+[3]（论文）Zheng K, Han J M, Polu S. Minif2f: a cross-system benchmark for formal olympiad-level mathematics[J]. arXiv preprint arXiv:2109.00110, 2021.
+[4]（论文）Azerbayev Z, Schoelkopf H, Paster K, et al. Llemma: An open language model for mathematics[J]. arXiv preprint arXiv:2310.10631, 2023.
+[5]（论文）Yang K, Swope A, Gu A, et al. Leandojo: Theorem proving with retrieval-augmented language models[J]. Advances in Neural Information Processing Systems, 2023, 36: 21573-21612.
+[6]（论文）Xin H, Guo D, Shao Z, et al. Deepseek-prover: Advancing theorem proving in llms through large-scale synthetic data[J]. arXiv preprint arXiv:2405.14333, 2024.
+[7]（新闻）https://cloud.tencent.com/developer/article/2369851
+[8]（论文）Hubert T, Mehta R, Sartran L, et al. Olympiad-level formal mathematical reasoning with reinforcement learning[J]. Nature, 2025: 1-3.
+[9]（博客）Sutton, R. (2019, March 13). The bitter lesson. Incomplete Ideas. http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+[10]（论文）Chen L, Gu J, Huang L, et al. Seed-prover: Deep and broad reasoning for automated theorem proving[J]. arXiv preprint arXiv:2507.23726, 2025.
+[11]（论文）Chen J, Chen W, Du J, et al. Seed-prover 1.5: Mastering undergraduate-level theorem proving via learning from experience[J]. arXiv preprint arXiv:2512.17260, 2025.
+[12]（论文）Wang J, Zhang J, Guo Q, et al. Longcat-flash-prover: Advancing native formal reasoning via agentic tool-integrated reinforcement learning[J]. arXiv preprint arXiv:2603.21065, 2026.
+[13]（论文）Liu J, Zhou Z, Zhu Z, et al. Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics[J]. arXiv preprint arXiv:2601.14027, 2026.
+[14]（论文）Xin H, Li L, Jin X, et al. Ape-bench i: Towards file-level automated proof engineering of formal math libraries[J]. arXiv preprint arXiv:2504.19110, 2025.
+[15]（论文）Ye Z, Yan Z, He J, et al. Verina: Benchmarking verifiable code generation[J]. arXiv preprint arXiv:2505.23135, 2025.
